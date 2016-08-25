@@ -1,4 +1,4 @@
-$(function() {
+mdc.inited = function() {
     mermaid.sequenceConfig = {
         "mirrorActors": false,
         "diagramMarginX":25,
